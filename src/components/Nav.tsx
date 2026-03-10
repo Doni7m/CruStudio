@@ -52,6 +52,14 @@ export const Nav = () => {
         </li>
         <li>
           <a
+            href="#dashboard"
+            className="text-[11px] tracking-[3px] uppercase text-[var(--text-dim)] no-underline transition-colors duration-200 hover:text-[var(--gold)]"
+          >
+            Dashboard
+          </a>
+        </li>
+        <li>
+          <a
             href="#expertise"
             className="text-[11px] tracking-[3px] uppercase text-[var(--text-dim)] no-underline transition-colors duration-200 hover:text-[var(--gold)]"
           >
