@@ -36,13 +36,13 @@ export const Contact = () => {
           </div>
           <div className="flex gap-5 justify-center reveal">
             <a
-              href="#"
+              href="https://www.linkedin.com/in/doni-martins-b16962112/"
               className="text-[11px] tracking-[3px] uppercase text-[var(--text-dim)] no-underline border border-[var(--border-hover)] px-[22px] py-[10px] transition-all duration-300 hover:border-[var(--gold)] hover:text-[var(--gold)]"
             >
               LinkedIn
             </a>
             <a
-              href="#"
+              href="https://github.com/Doni7m"
               className="text-[11px] tracking-[3px] uppercase text-[var(--text-dim)] no-underline border border-[var(--border-hover)] px-[22px] py-[10px] transition-all duration-300 hover:border-[var(--gold)] hover:text-[var(--gold)]"
             >
               GitHub
